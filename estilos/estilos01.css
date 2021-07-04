@@ -1,0 +1,244 @@
+body{
+    background-color: #30333b;
+}
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    color: white;
+}
+
+p{
+    font-size:150%;
+    text-align: justify;
+    color: white;
+}
+
+.button{
+    background-color: white;
+    border: none;
+    color: #30333b;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    margin-left: 40%;
+}
+
+#inicio{
+    right: 0px;
+    width: 100%;
+}
+
+.card-text{
+    text-align: justify;
+}
+
+.des{
+    color: black;
+}
+
+#py2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.espacio{
+    color: #30333b;
+}
+
+#pydef{
+    text-align: justify;
+    display: block;
+    margin-left: 0;
+    margin-right: 22%;
+}
+
+.py{
+    padding: 3%;
+    background:#30333b;
+}
+
+.text{
+    margin-right: 5%;
+}
+
+.tit{
+    color: white;
+    padding-right: 7%;
+}
+
+.logo-image{
+    border-radius: 20%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+
+h2,h4{
+    color: white;
+    text-align: justify;
+}
+
+.info{
+    color: white;
+    text-align: justify;
+    font-size: 22px;
+    padding-right: 0%;
+
+}
+
+.parrafo{
+    color: white;
+    text-align: justify;
+    font-size: 22px;
+}
+
+.sub{
+    color: white;
+    font-size: 28px;
+}
+
+.activar, .activar1{
+    margin-bottom: 2%;
+    margin-right: 2%;
+}
+
+#autor, .nombre, #referencia, #cursosh1{
+    text-align: center;
+}
+
+.docente{
+    max-width: 40%;
+    max-height: 55%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+body, ul {
+    margin: 0%;
+}
+  
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+    transition: 0.5s;
+}
+ 
+nav {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 7%;
+    right: 0;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    place-items: center;
+    color: #fff;
+}
+
+.link{
+    padding-right: -20%;
+    text-align: justify;
+}
+
+.centrar, .titulo{
+    text-align: center;
+}
+
+
+.ejer2{
+    font-size: 18px;
+}
+
+textarea{
+    border-radius: 4%;
+    font-size: 22px;
+}
+
+
+.rectangle{
+    margin-left: 40%;
+    width: 72%;
+    background-color: white;
+    padding: 3%;
+}
+
+#ejemplo1{
+    color: black;
+}
+
+#boots{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#boton{
+    margin-left: 40%;
+}
+
+.contacto{
+    position: relative;
+}
+
+#facebook{
+    width: 10%;
+    border-radius: 5%;
+    margin-right: 5%;
+}
+
+#twitter{
+    width: 14%;
+}
+
+#instagram{
+    width: 20%;
+}
+
+
+#nav{
+    width: 45%;
+    padding: 0;
+    margin: 0;
+}
+
+label{
+    color: white;
+    font-size: 20px;
+}
+
+input{
+    width: 70%;
+    height: 7%;
+    border-radius: 5%;
+}
+
+#enviar{
+    margin-left: 73%;
+}
+
+.ejercicio{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.code{
+    text-align: left;
+}
+
+video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
